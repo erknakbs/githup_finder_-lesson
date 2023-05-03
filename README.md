@@ -1,4 +1,4 @@
-# Githup Finder Lesson
+# Github Finder Lesson
 
 ## Html - Css - JavaScript
 
